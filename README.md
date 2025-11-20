@@ -139,9 +139,9 @@ Cross-site scripting (XSS) protection
 
 # *👥 Contributors*
 
-Hufsa Zia (B2433048)
-
 Emaan Shoukat Ali (B2433032)
+
+Hufsa Zia (B2433048)
 
 Areeba M. Amin (B2433016)
 
